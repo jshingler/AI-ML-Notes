@@ -16,3 +16,5 @@ Trying this [Ubuntu 16.04 + CUDA 9.1 + cuDNN 7.0.5 + Tensorflow 1.4.0](http://ty
 [Element of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 
 [Branches of AI](http://www-formal.stanford.edu/jmc/whatisai/node2.html)
+
+[Quant Finanance](https://quant.stackexchange.com/questions/111/how-can-i-go-about-applying-machine-learning-algorithms-to-stock-markets)
