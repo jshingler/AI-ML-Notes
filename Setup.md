@@ -14,3 +14,5 @@ Trying this [Ubuntu 16.04 + CUDA 9.1 + cuDNN 7.0.5 + Tensorflow 1.4.0](http://ty
 [Installing Python Wheel (whl) files](https://stackoverflow.com/questions/27885397/how-do-i-install-a-python-package-with-a-whl-file)
 
 [Element of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
+
+[Branches of AI](http://www-formal.stanford.edu/jmc/whatisai/node2.html)
